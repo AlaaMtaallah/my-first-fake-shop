@@ -1,0 +1,21 @@
+
+/* Navbar */
+.navbar-nav a{
+    font-size: 17px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*baniere*/
+.home-card-text {
+    border: none !important;
+    background-color: transparent !important;
+}
+
+/*list product cards*/
+.card-img-top {
+    object-fit: cover;
+}
